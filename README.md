@@ -1,4 +1,4 @@
-Interactive Quiz Application
+# Interactive Quiz Application
 
 Welcome to the Interactive Quiz Application! This project is designed to showcase proficiency in Python programming, control flow, data structures, and user interaction design. The application provides an enjoyable learning experience for users through a simple command-line interface.
 
